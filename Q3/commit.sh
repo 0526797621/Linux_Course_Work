@@ -21,11 +21,15 @@ if [[ -z "$DATA" ]]; then
   exit 1
 fi
 
-# Extracting details from the CSV (assumes CSV format: BugID, Description, Branch, Developer, Priority)
+# Extracting details from the CSV (assumes CSV format: BugID, Description, Branch, Developer, Priority, repoPath, githuburl)
+
 BUGID=$(echo "$DATA" | cut -d',' -f1)
 DESCRIPTION=$(echo "$DATA" | cut -d',' -f2)
 PRIORITY=$(echo "$DATA" | cut -d',' -f5)
 DEVELOPER=$(echo "$DATA" | cut -d',' -f4)
+REPOPATH=$(echo "$DATA" | cut -d',' -f6)
+GITHUBURL=$(echo "$DATA" | cut -d',' -f7)
+
 
 # Get current date and time
 CURRENT_TIME=$(date '+%Y-%m-%d %H:%M:%S')
