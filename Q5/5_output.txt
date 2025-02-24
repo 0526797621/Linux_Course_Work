@@ -1,0 +1,31 @@
+Displaying all CSV data with row index:
+1 Date collected,Species,Sex,Weight
+2 1/8,PF,M,7
+3 2/18,OT,M,24
+4 2/19,OT,F,23
+5 3/11,NA,M,232
+6 3/11,OT,F,22
+7 3/11,OT,M,26
+8 3/11,PF,M,8
+9 4/8,NA,F,8
+10 5/6,NA,F,45
+11 5/18,NA,F,182
+12 6/9,OT,F,29
+Displayed all data with row index
+Added new row: 7/7,PF,M,7777
+Displaying all CSV data with row index:
+1 Date collected,Species,Sex,Weight
+2 1/8,PF,M,7
+3 2/18,OT,M,24
+4 2/19,OT,F,23
+5 3/11,NA,M,232
+6 3/11,OT,F,22
+7 3/11,OT,M,26
+8 3/11,PF,M,8
+9 4/8,NA,F,8
+10 5/6,NA,F,45
+11 5/18,NA,F,182
+12 6/9,OT,F,29
+13 7/7,PF,M,7777
+Displayed all data with row index
+Exiting program
