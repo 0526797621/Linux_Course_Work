@@ -1,0 +1,6 @@
+09cb418 235:2025-02-24 07:57:36:br_2:m.Abuawad:2:Fix logging:Developer additional description
+611f2f8 236:2025-02-24 07:49:22:br_3:a.Abu:1:Fix readme
+d7739cc Added requirements.txt, updated py1.py, and saved output to q2_output.txt
+ed37258 q1_output.txt created
+8d8ab8b after removing downloads.tar.gz
+253f9a8 START
