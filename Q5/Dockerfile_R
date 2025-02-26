@@ -1,0 +1,13 @@
+FROM r-base:latest
+
+RUN R -e "install.packages('dplyr', repos='http://cran.rstudio.com/')"
+
+WORKDIR /app
+
+COPY r_script.R /app/
+
+COPY q5_d_data.csv /app/input.csv
+
+RUN chmod +x r_script.R
+
+CMD ["R"]

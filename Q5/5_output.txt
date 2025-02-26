@@ -13,3 +13,11 @@ Date collected,Species,Sex,Weight
 1) 1/8,PF,M,8888
 Displayed all data with row index
 Exiting program
+Created CSV file: q5_d_data.csv with headers
+Added new row: 1/1,PF,M,1 to q5_d_data.csv
+Added new row: 2/2,NA,F,2 to q5_d_data.csv
+Added new row: 3/3,PF,F,3 to q5_d_data.csv
+Added new row: 4/4,NA,M,4 to q5_d_data.csv
+Added new row: 5/5,OT,M,5 to q5_d_data.csv
+Added new row: 6/6,OT,F,6 to q5_d_data.csv
+Exiting program
