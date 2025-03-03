@@ -1,0 +1,34 @@
+Created database '5_c_DB.db' and table 'data'.
+Added new row: 1/1, PF, M, 10 to the database.
+Added new row: 2/2, PF, F, 20 to the database.
+Added new row: 3/3, OT, M, 15 to the database.
+Items of species 'OT' in the database:
+3|3/3|OT|M|15.0
+Average weight for OT: 15.0
+Displayed all items of species 'OT' and average weight: 15.0
+Invalid option. Please try again.
+Added new row: 4/4, OT, F, 5 to the database.
+Displaying all data with row index from the database:
+1|1/1|PF|M|10.0
+2|2/2|PF|F|20.0
+3|3/3|OT|M|15.0
+4|4/4|OT|F|5.0
+Displayed all data with row index.
+Items of species 'OT' and sex 'F' in the database:
+4|4/4|OT|F|5.0
+Average weight for OT and sex F: 5.0
+Displayed all items of species 'OT' and sex 'F' and average weight: 5.0
+Updated weight for row with index: 4 to 75 in the database.
+Displaying all data with row index from the database:
+1|1/1|PF|M|10.0
+2|2/2|PF|F|20.0
+3|3/3|OT|M|15.0
+4|4/4|OT|F|75.0
+Displayed all data with row index.
+Deleted row with index: 3 from the database.
+Displaying all data with row index from the database:
+1|1/1|PF|M|10.0
+2|2/2|PF|F|20.0
+4|4/4|OT|F|75.0
+Displayed all data with row index.
+Exiting program
