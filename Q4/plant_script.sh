@@ -1,10 +1,9 @@
 #!/bin/bash
 
-# הגדרת משתנים
 REPO_PATH=~/Linux_Course_Work/Q4
 VENV_PATH=~/my_venv
-CSV_FILE=$1  # המסלול לקובץ CSV (הפרמטר הראשון שהועבר לסקריפט)
-LOG_FILE=~/plant_processing.log
+CSV_FILE=$1 
+LOG_FILE="./plant_processing.log"
 
 # Function to log messages
 log() {
@@ -30,7 +29,7 @@ source "$VENV_PATH/bin/activate"
 REQUIREMENTS_FILE="$REPO_PATH/requirements.txt"
 if [ ! -f "$REQUIREMENTS_FILE" ]; then
   log "requirements.txt not found. Creating the file."
-  echo "matplotlib" > "$REQUIREMENTS_FILE"  # הוספת ספריה לדוגמה (הוסף ספריות נוספות לפי הצורך)
+  echo "matplotlib" > "$REQUIREMENTS_FILE"
   echo "numpy" >> "$REQUIREMENTS_FILE"
   echo "pandas" >> "$REQUIREMENTS_FILE"
   log "Created requirements.txt"

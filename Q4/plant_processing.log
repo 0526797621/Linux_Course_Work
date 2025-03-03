@@ -1,0 +1,129 @@
+Mon Feb 24 10:37:56 AM UTC 2025 - Creating virtual environment at /home/nour/my_venv
+Mon Feb 24 10:38:01 AM UTC 2025 - requirements.txt not found. Creating the file.
+Mon Feb 24 10:38:01 AM UTC 2025 - Created requirements.txt
+Mon Feb 24 10:38:01 AM UTC 2025 - Installing dependencies
+Mon Feb 24 10:38:28 AM UTC 2025 - Error: Failed to install dependencies.
+Mon Feb 24 10:41:11 AM UTC 2025 - Virtual environment already exists at /home/nour/my_venv
+Mon Feb 24 10:41:11 AM UTC 2025 - Installing dependencies
+Mon Feb 24 10:41:43 AM UTC 2025 - Processing CSV file: plant_data.csv
+Mon Feb 24 10:41:43 AM UTC 2025 - Processing plant: Rose
+Mon Feb 24 10:41:43 AM UTC 2025 - Created directory: /home/nour/Linux_Course_Work/Rose
+Mon Feb 24 10:41:43 AM UTC 2025 - Error: Python script failed for plant Rose with parameters height="50 55 60 65 70", leaf_count="35 40 45 50 55", dry_weight="2.0 2.2 2.5 2.7 3.0"
+Mon Feb 24 10:41:43 AM UTC 2025 - Processing plant: Tulip
+Mon Feb 24 10:41:43 AM UTC 2025 - Created directory: /home/nour/Linux_Course_Work/Tulip
+Mon Feb 24 10:41:43 AM UTC 2025 - Error: Python script failed for plant Tulip with parameters height="30 35 40 42", leaf_count="12 15 18 20", dry_weight="1.5 1.6 1.7 1.8"
+Mon Feb 24 10:41:43 AM UTC 2025 - Processing plant: Sunflower
+Mon Feb 24 10:41:43 AM UTC 2025 - Created directory: /home/nour/Linux_Course_Work/Sunflower
+Mon Feb 24 10:41:43 AM UTC 2025 - Error: Python script failed for plant Sunflower with parameters height="120 125 130 135", leaf_count="50 55 60 65", dry_weight="5.0 5.5 6.0 6.5"
+Mon Feb 24 10:41:43 AM UTC 2025 - Processing plant: Daffodil
+Mon Feb 24 10:41:43 AM UTC 2025 - Created directory: /home/nour/Linux_Course_Work/Daffodil
+Mon Feb 24 10:41:43 AM UTC 2025 - Error: Python script failed for plant Daffodil with parameters height="40 45 50 55", leaf_count="15 18 20 22", dry_weight="1.8 2.0 2.2 2.5"
+Mon Feb 24 10:41:43 AM UTC 2025 - Processing plant: Lily
+Mon Feb 24 10:41:43 AM UTC 2025 - Created directory: /home/nour/Linux_Course_Work/Lily
+Mon Feb 24 10:41:43 AM UTC 2025 - Error: Python script failed for plant Lily with parameters height="60 65 70", leaf_count="20 22 24", dry_weight="2.5 2.7 3.0"
+Mon Feb 24 10:41:43 AM UTC 2025 - All plants processed successfully.
+Mon Feb 24 10:44:37 AM UTC 2025 - Virtual environment already exists at /home/nour/my_venv
+Mon Feb 24 10:44:37 AM UTC 2025 - requirements.txt not found. Creating the file.
+Mon Feb 24 10:44:37 AM UTC 2025 - Created requirements.txt
+Mon Feb 24 10:44:37 AM UTC 2025 - Installing dependencies
+Mon Feb 24 10:44:41 AM UTC 2025 - Processing CSV file: plant_data.csv
+Mon Feb 24 10:44:41 AM UTC 2025 - Processing plant: Rose
+Mon Feb 24 10:44:41 AM UTC 2025 - Created directory: /home/nour/Linux_Course_Work/Q4/Rose
+Mon Feb 24 10:44:45 AM UTC 2025 - Error: Python script failed for plant Rose with parameters height="50 55 60 65 70", leaf_count="35 40 45 50 55", dry_weight="2.0 2.2 2.5 2.7 3.0"
+Mon Feb 24 10:44:45 AM UTC 2025 - Processing plant: Tulip
+Mon Feb 24 10:44:45 AM UTC 2025 - Created directory: /home/nour/Linux_Course_Work/Q4/Tulip
+Mon Feb 24 10:44:49 AM UTC 2025 - Error: Python script failed for plant Tulip with parameters height="30 35 40 42", leaf_count="12 15 18 20", dry_weight="1.5 1.6 1.7 1.8"
+Mon Feb 24 10:44:49 AM UTC 2025 - Processing plant: Sunflower
+Mon Feb 24 10:44:49 AM UTC 2025 - Created directory: /home/nour/Linux_Course_Work/Q4/Sunflower
+Mon Feb 24 10:44:53 AM UTC 2025 - Error: Python script failed for plant Sunflower with parameters height="120 125 130 135", leaf_count="50 55 60 65", dry_weight="5.0 5.5 6.0 6.5"
+Mon Feb 24 10:44:53 AM UTC 2025 - Processing plant: Daffodil
+Mon Feb 24 10:44:53 AM UTC 2025 - Created directory: /home/nour/Linux_Course_Work/Q4/Daffodil
+Mon Feb 24 10:44:57 AM UTC 2025 - Error: Python script failed for plant Daffodil with parameters height="40 45 50 55", leaf_count="15 18 20 22", dry_weight="1.8 2.0 2.2 2.5"
+Mon Feb 24 10:44:57 AM UTC 2025 - Processing plant: Lily
+Mon Feb 24 10:44:57 AM UTC 2025 - Created directory: /home/nour/Linux_Course_Work/Q4/Lily
+Mon Feb 24 10:45:01 AM UTC 2025 - Error: Python script failed for plant Lily with parameters height="60 65 70", leaf_count="20 22 24", dry_weight="2.5 2.7 3.0"
+Mon Feb 24 10:45:01 AM UTC 2025 - All plants processed successfully.
+Mon Feb 24 10:49:35 AM UTC 2025 - Virtual environment already exists at /home/nour/my_venv
+Mon Feb 24 10:49:35 AM UTC 2025 - requirements.txt not found. Creating the file.
+Mon Feb 24 10:49:35 AM UTC 2025 - Created requirements.txt
+Mon Feb 24 10:49:35 AM UTC 2025 - Installing dependencies
+Mon Feb 24 10:49:38 AM UTC 2025 - Processing CSV file: plant_data.csv
+Mon Feb 24 10:49:38 AM UTC 2025 - Processing plant: Rose
+Mon Feb 24 10:49:38 AM UTC 2025 - Created directory: /home/nour/Linux_Course_Work/Rose
+Mon Feb 24 10:49:38 AM UTC 2025 - Error: Python script failed for plant Rose with parameters height="50 55 60 65 70", leaf_count="35 40 45 50 55", dry_weight="2.0 2.2 2.5 2.7 3.0"
+Mon Feb 24 10:49:38 AM UTC 2025 - Processing plant: Tulip
+Mon Feb 24 10:49:38 AM UTC 2025 - Created directory: /home/nour/Linux_Course_Work/Tulip
+Mon Feb 24 10:49:38 AM UTC 2025 - Error: Python script failed for plant Tulip with parameters height="30 35 40 42", leaf_count="12 15 18 20", dry_weight="1.5 1.6 1.7 1.8"
+Mon Feb 24 10:49:38 AM UTC 2025 - Processing plant: Sunflower
+Mon Feb 24 10:49:38 AM UTC 2025 - Created directory: /home/nour/Linux_Course_Work/Sunflower
+Mon Feb 24 10:49:39 AM UTC 2025 - Error: Python script failed for plant Sunflower with parameters height="120 125 130 135", leaf_count="50 55 60 65", dry_weight="5.0 5.5 6.0 6.5"
+Mon Feb 24 10:49:39 AM UTC 2025 - Processing plant: Daffodil
+Mon Feb 24 10:49:39 AM UTC 2025 - Created directory: /home/nour/Linux_Course_Work/Daffodil
+Mon Feb 24 10:49:39 AM UTC 2025 - Error: Python script failed for plant Daffodil with parameters height="40 45 50 55", leaf_count="15 18 20 22", dry_weight="1.8 2.0 2.2 2.5"
+Mon Feb 24 10:49:39 AM UTC 2025 - Processing plant: Lily
+Mon Feb 24 10:49:39 AM UTC 2025 - Created directory: /home/nour/Linux_Course_Work/Lily
+Mon Feb 24 10:49:39 AM UTC 2025 - Error: Python script failed for plant Lily with parameters height="60 65 70", leaf_count="20 22 24", dry_weight="2.5 2.7 3.0"
+Mon Feb 24 10:49:39 AM UTC 2025 - All plants processed successfully.
+Mon Feb 24 10:50:13 AM UTC 2025 - Virtual environment already exists at /home/nour/my_venv
+Mon Feb 24 10:50:13 AM UTC 2025 - requirements.txt not found. Creating the file.
+Mon Feb 24 10:50:13 AM UTC 2025 - Created requirements.txt
+Mon Feb 24 10:50:13 AM UTC 2025 - Installing dependencies
+Mon Feb 24 10:50:16 AM UTC 2025 - Processing CSV file: plant_data.csv
+Mon Feb 24 10:50:16 AM UTC 2025 - Processing plant: Rose
+Mon Feb 24 10:50:17 AM UTC 2025 - Created directory: /home/nour/Linux_Course_Work/Q4/Rose
+Mon Feb 24 10:50:18 AM UTC 2025 - Error: Python script failed for plant Rose with parameters height="50 55 60 65 70", leaf_count="35 40 45 50 55", dry_weight="2.0 2.2 2.5 2.7 3.0"
+Mon Feb 24 10:50:18 AM UTC 2025 - Processing plant: Tulip
+Mon Feb 24 10:50:18 AM UTC 2025 - Created directory: /home/nour/Linux_Course_Work/Q4/Tulip
+Mon Feb 24 10:50:19 AM UTC 2025 - Error: Python script failed for plant Tulip with parameters height="30 35 40 42", leaf_count="12 15 18 20", dry_weight="1.5 1.6 1.7 1.8"
+Mon Feb 24 10:50:19 AM UTC 2025 - Processing plant: Sunflower
+Mon Feb 24 10:50:19 AM UTC 2025 - Created directory: /home/nour/Linux_Course_Work/Q4/Sunflower
+Mon Feb 24 10:50:20 AM UTC 2025 - Error: Python script failed for plant Sunflower with parameters height="120 125 130 135", leaf_count="50 55 60 65", dry_weight="5.0 5.5 6.0 6.5"
+Mon Feb 24 10:50:20 AM UTC 2025 - Processing plant: Daffodil
+Mon Feb 24 10:50:20 AM UTC 2025 - Created directory: /home/nour/Linux_Course_Work/Q4/Daffodil
+Mon Feb 24 10:50:20 AM UTC 2025 - Error: Python script failed for plant Daffodil with parameters height="40 45 50 55", leaf_count="15 18 20 22", dry_weight="1.8 2.0 2.2 2.5"
+Mon Feb 24 10:50:20 AM UTC 2025 - Processing plant: Lily
+Mon Feb 24 10:50:20 AM UTC 2025 - Created directory: /home/nour/Linux_Course_Work/Q4/Lily
+Mon Feb 24 10:50:21 AM UTC 2025 - Error: Python script failed for plant Lily with parameters height="60 65 70", leaf_count="20 22 24", dry_weight="2.5 2.7 3.0"
+Mon Feb 24 10:50:21 AM UTC 2025 - All plants processed successfully.
+Mon Feb 24 10:53:38 AM UTC 2025 - Virtual environment already exists at /home/nour/my_venv
+Mon Feb 24 10:53:38 AM UTC 2025 - requirements.txt not found. Creating the file.
+Mon Feb 24 10:53:38 AM UTC 2025 - Created requirements.txt
+Mon Feb 24 10:53:38 AM UTC 2025 - Installing dependencies
+Mon Feb 24 10:53:52 AM UTC 2025 - Processing CSV file: plant_data.csv
+Mon Feb 24 10:53:52 AM UTC 2025 - Processing plant: Rose
+Mon Feb 24 10:53:52 AM UTC 2025 - Created directory: /home/nour/Linux_Course_Work/Q4/Rose
+Mon Feb 24 10:54:18 AM UTC 2025 - Moved plot files for Rose to /home/nour/Linux_Course_Work/Q4/Rose
+Mon Feb 24 10:54:18 AM UTC 2025 - Processing plant: Tulip
+Mon Feb 24 10:54:18 AM UTC 2025 - Created directory: /home/nour/Linux_Course_Work/Q4/Tulip
+Mon Feb 24 10:54:41 AM UTC 2025 - Error: Python script failed for plant Tulip with parameters height="30 35 40 42", leaf_count="12 15 18 20", dry_weight="1.5 1.6 1.7 1.8"
+Mon Feb 24 10:54:41 AM UTC 2025 - Processing plant: Sunflower
+Mon Feb 24 10:54:41 AM UTC 2025 - Created directory: /home/nour/Linux_Course_Work/Q4/Sunflower
+Mon Feb 24 10:55:30 AM UTC 2025 - Error: Python script failed for plant Sunflower with parameters height="120 125 130 135", leaf_count="50 55 60 65", dry_weight="5.0 5.5 6.0 6.5"
+Mon Feb 24 10:55:30 AM UTC 2025 - Processing plant: Daffodil
+Mon Feb 24 10:55:30 AM UTC 2025 - Created directory: /home/nour/Linux_Course_Work/Q4/Daffodil
+Mon Feb 24 10:56:42 AM UTC 2025 - Error: Python script failed for plant Daffodil with parameters height="40 45 50 55", leaf_count="15 18 20 22", dry_weight="1.8 2.0 2.2 2.5"
+Mon Feb 24 10:56:42 AM UTC 2025 - Processing plant: Lily
+Mon Feb 24 10:56:42 AM UTC 2025 - Created directory: /home/nour/Linux_Course_Work/Q4/Lily
+Mon Feb 24 10:57:02 AM UTC 2025 - Error: Python script failed for plant Lily with parameters height="60 65 70", leaf_count="20 22 24", dry_weight="2.5 2.7 3.0"
+Mon Feb 24 10:57:02 AM UTC 2025 - All plants processed successfully.
+Mon Feb 24 11:08:07 AM UTC 2025 - Virtual environment already exists at /home/nour/my_venv
+Mon Feb 24 11:08:07 AM UTC 2025 - requirements.txt not found. Creating the file.
+Mon Feb 24 11:08:07 AM UTC 2025 - Created requirements.txt
+Mon Feb 24 11:08:07 AM UTC 2025 - Installing dependencies
+Mon Feb 24 11:08:15 AM UTC 2025 - Processing CSV file: plant_data.csv
+Mon Feb 24 11:08:15 AM UTC 2025 - Processing plant: Rose
+Mon Feb 24 11:08:15 AM UTC 2025 - Created directory: /home/nour/Linux_Course_Work/Q4/Rose
+Mon Feb 24 11:08:36 AM UTC 2025 - Moved plot files for Rose to /home/nour/Linux_Course_Work/Q4/Rose
+Mon Feb 24 11:08:36 AM UTC 2025 - Processing plant: Tulip
+Mon Feb 24 11:08:36 AM UTC 2025 - Created directory: /home/nour/Linux_Course_Work/Q4/Tulip
+Mon Feb 24 11:08:59 AM UTC 2025 - Moved plot files for Tulip to /home/nour/Linux_Course_Work/Q4/Tulip
+Mon Feb 24 11:08:59 AM UTC 2025 - Processing plant: Sunflower
+Mon Feb 24 11:08:59 AM UTC 2025 - Created directory: /home/nour/Linux_Course_Work/Q4/Sunflower
+Mon Feb 24 11:09:26 AM UTC 2025 - Moved plot files for Sunflower to /home/nour/Linux_Course_Work/Q4/Sunflower
+Mon Feb 24 11:09:26 AM UTC 2025 - Processing plant: Daffodil
+Mon Feb 24 11:09:26 AM UTC 2025 - Created directory: /home/nour/Linux_Course_Work/Q4/Daffodil
+Mon Feb 24 11:10:01 AM UTC 2025 - Moved plot files for Daffodil to /home/nour/Linux_Course_Work/Q4/Daffodil
+Mon Feb 24 11:10:01 AM UTC 2025 - Processing plant: Lily
+Mon Feb 24 11:10:01 AM UTC 2025 - Created directory: /home/nour/Linux_Course_Work/Q4/Lily
+Mon Feb 24 11:10:31 AM UTC 2025 - Moved plot files for Lily to /home/nour/Linux_Course_Work/Q4/Lily
+Mon Feb 24 11:10:31 AM UTC 2025 - All plants processed successfully.
